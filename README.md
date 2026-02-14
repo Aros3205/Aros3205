@@ -1,4 +1,4 @@
-# Tolulope Richard Arowobusoye Cybersecurity Analyst
+# Tolulope Richard Arowobusoye - Cybersecurity Analyst
  Hello! I’m **Tolulope Richard Arowobusoye**, a results-driven Cybersecurity Analyst with two years o
 experience protecting cloud and on-prem infrastructures. My work focuses on threat detection,
 vulnerability management, and continuous security monitoring. This repository gathers the lab
