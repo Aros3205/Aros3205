@@ -1,11 +1,11 @@
 # Tolulope Richard Arowobusoye Cybersecurity Analyst
-�� Hello! I’m **Tolulope Richard Arowobusoye**, a results-driven Cybersecurity Analyst with two years o
+ Hello! I’m **Tolulope Richard Arowobusoye**, a results-driven Cybersecurity Analyst with two years o
 experience protecting cloud and on-prem infrastructures. My work focuses on threat detection,
 vulnerability management, and continuous security monitoring. This repository gathers the lab
 projects and reference guides that demonstrate my technical depth and commitment to secure-
 by-design principles.
 ---
-## �� Project Highlights
+## Project Highlights
 ### Lab Foundations
 - **Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion)
 
@@ -50,8 +50,7 @@ tests
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
 | 03-AWS-deployment | Configuration and hardening Cloud console in AWS | [View Repo](#) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
-| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View
-Repo](#) |
+| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 08-mitre-threat-hunt | ATT&amp;CK-aligned threat hunting scripts | [View Repo](#) |
