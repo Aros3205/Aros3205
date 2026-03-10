@@ -48,9 +48,9 @@ tests
 |--------|-------------|------|
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/Aros3205/Complete-Virtual-Lab-Environment-Setup.) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/Aros3205/Active-Directory-Setup-and--Configuration) |
-| 03-AWS-deployment | Configuration and hardening Cloud console in AWS | [View Repo](#) |
-| 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
-| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
+| 03-AWS-deployment | Configuration and hardening Cloud console in AWS | [View Repo](https://github.com/Aros3205/AWS-IAM-and-EC2-Role-Segmentation-Lab-) |
+| 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo]([https://github.com/Aros3205/ISO-27001-NIST-CSF-Mapping-Policy-Development](https://github.com/Aros3205/ISO-27001-NIST-CSF-Mapping-Policy-Development.)) |
+| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/Aros3205/ACTIVE-RECONNAISSANCE-AND-VULNERABILITY-ASSESSMENT-USING-Nmap-AND-Nessus) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 08-mitre-threat-hunt | ATT&amp;CK-aligned threat hunting scripts | [View Repo](#) |
