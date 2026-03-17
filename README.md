@@ -54,7 +54,7 @@ tests
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 08-mitre-threat-hunt | ATT&amp;CK-aligned threat hunting scripts | [View Repo](https://github.com/Aros3205/Threat-Hunting-MITRE-ATT-CK) |
-| 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
+| 09-Threat modelling | OWASP Threat Dragon & Microsoft Threat Modelling tool | [View Repo](#) |
 | 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
