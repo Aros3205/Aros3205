@@ -55,7 +55,7 @@ tests
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 08-mitre-threat-hunt | ATT&amp;CK-aligned threat hunting scripts | [View Repo](https://github.com/Aros3205/Threat-Hunting-MITRE-ATT-CK) |
 | 09-Threat modelling | OWASP Threat Dragon & Microsoft Threat Modelling tool | [View Repo](https://github.com/Aros3205/Threat-Modelling-Project--La-Vie-Application) |
-| 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://issauga.lt/login-pages.html) |
+| 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/Aros3205/Phishing-Email-Analysis-and-investigation-Report) |
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/Aros3205/Linux-Permission-Audit-Project) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
