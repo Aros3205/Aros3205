@@ -59,6 +59,7 @@ tests
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/Aros3205/Linux-Permission-Audit-Project) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
+| 14-email-siem-automation | Email Siem Automation & Splunk Integration | [View Repo](https://github.com/Aros3205/Email-Siem-Automation/tree/main)
 |
 ---
 ## Contact
